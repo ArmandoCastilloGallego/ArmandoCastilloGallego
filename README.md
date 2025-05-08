@@ -30,26 +30,7 @@ LinkedIn: Mi perfil
 
 Lenguajes:
 
-
-
-🐍 Python
-
-
-
-☕ Java
-
-
-
-📱 Kotlin (Android)
-
-
-
-💻 JavaScript/TypeScript
-
-
-
-🗄️ SQL
-
+Desde que empecé con 16 años hasta ahora, y de forma secuencial: Basic (con sus derivados de entonces: QBasic, Basic Mallard, etc.), Cobol, RPG II para sistemas 36/38 de IBM, Visual Basic, 📱 Kotlin (Android), 💻 JavaScript/TypeScript, ☕ Java, 🗄️ SQL, 🐍 Python
 
 
 Frameworks y herramientas:
