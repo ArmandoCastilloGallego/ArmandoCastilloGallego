@@ -13,15 +13,15 @@ Me encanta aprender nuevas habilidades tecnológicas y enfrentarme a diferentes 
 
 
 
-Nombre: Juan Pérez
+Nombre: Armando Castillo
 
 
 
-Ubicación: Madrid, España 🇪🇸
+Ubicación: Cieza (Murcia), España 🇪🇸
 
 
 
-Correo: juan.perez@example.com
+Correo: castillogallego@gmail.com
 
 
 
@@ -29,18 +29,9 @@ LinkedIn: Mi perfil
 
 
 
-Portfolio: juansite.com
-
-
-
 🖼️ Fotos en Markdown
 
 Puedes insertar imágenes usando la sintaxis ![Texto alternativo](URL o ruta de la imagen). Aquí tienes un ejemplo con una foto de perfil:
-
-
-
-También puedes ajustar el tamaño usando HTML:
-
 
 
 💻 Habilidades técnicas
