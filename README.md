@@ -25,23 +25,10 @@ Ubicación: Cieza (Murcia), España 🇪🇸
 LinkedIn: Mi perfil
 
 
-
-🖼️ Fotos en Markdown
-
-Puedes insertar imágenes usando la sintaxis ![Texto alternativo](URL o ruta de la imagen). Aquí tienes un ejemplo con una foto de perfil:
-
-
 💻 Habilidades técnicas
-
-Domino una amplia variedad de tecnologías y lenguajes de programación, incluyendo:
-
-
-
 
 
 Lenguajes:
-
-
 
 
 
