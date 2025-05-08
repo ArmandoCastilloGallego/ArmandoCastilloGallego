@@ -6,7 +6,8 @@
 
 📌 Sobre mí
 
-Soy un apasionado de la tecnología y la programación, con una sólida trayectoria en el desarrollo de soluciones innovadoras para el sector financiero. Mis habilidades abarcan desde el desarrollo de aplicaciones móviles hasta la creación de sistemas robustos en diversos lenguajes.
+Soy un apasionado de la tecnología y la programación.
+Me encanta aprender nuevas habilidades tecnológicas y enfrentarme a diferentes retos.
 
 
 
