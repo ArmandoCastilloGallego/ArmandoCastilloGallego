@@ -18,7 +18,7 @@ Ubicación: Cieza (Murcia), España 🇪🇸
 
 
 
-Correo: 📫 castillogallego@gmail.com
+📫 castillogallego@gmail.com
 
 
 
