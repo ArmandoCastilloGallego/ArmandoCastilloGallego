@@ -1,6 +1,6 @@
 ¡Bienvenidos a mi perfil de GitHub! 🚀
 
-¡Hola! Soy Juan Pérez, un profesional con más de 25 años de experiencia en el sector Banca y Finanzas, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, Android Developer y programador versátil en múltiples lenguajes de programación. Este README es una presentación de mi perfil profesional y un ejemplo de las posibilidades de Markdown para que puedas aprender y personalizarlo.
+¡Hola! Soy Armando Castillo, un profesional con más de 25 años de experiencia en el sector Banca y Finanzas, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, Android Developer y programador versátil en múltiples lenguajes de programación. 
 
 
 
